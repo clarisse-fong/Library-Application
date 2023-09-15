@@ -1,2 +1,7 @@
 # Local Library
-This is my first project in the Thinkful software engineering bootcamp. It is a website that has a database for the local library. It is coded using an accounts, books, and authors array. It has over 20 functions related to accessing accounts, books, and the home page. 
+* Assembled the functionality for an application that allows users to search, review and check out books from their local neighborhood.
+* Created search and sorting functions to allow users to know what books were available and their rating.
+* Coded using JavaScript functions that are built to enable the expansion of the library with little to no need for code refactoring.
+
+
+Technology: JavaScript ES6, Bootstrap, HTML5, Node.js
